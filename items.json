@@ -1,0 +1,31 @@
+   [{
+    "name": "Bottle",
+    "price": 300,
+    "weight": 100
+  }, 
+  {
+    "name": "Book",
+    "price": 500,
+    "weight": 250
+  },
+  {
+    "name": "Pencil",
+    "price": 10,
+    "weight": 5
+  }, 
+  {
+    "name": "Shoes",
+    "price": 3000,
+    "weight": 1000
+  },
+  {
+    "name": "Cap",
+    "price": 1000,
+    "weight": 300
+  },
+  {
+    "name": "Jacket",
+    "price": 5000,
+    "weight": 1500
+  }]
+
